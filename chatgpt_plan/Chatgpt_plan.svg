@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2220" height="1118" viewBox="0 0 123 62"><rect width="123" height="62" fill="#f7f4ed"/>
+<style>text{font-family:Arial,sans-serif;fill:#243344}.title{font-size:1.4px;font-weight:bold;letter-spacing:.04em}.sub{font-size:.62px;fill:#617080}.room{font-size:.52px;font-weight:bold;text-anchor:middle}.note{font-size:.42px;fill:#526170;text-anchor:middle}.dim{font-size:.55px;fill:#526170;text-anchor:middle}</style>
+<text class="title" x="21.75" y="8.700000000000003" text-anchor="middle">GROUND FLOOR</text>
+<text class="sub" x="21.75" y="10.200000000000003" text-anchor="middle">1 BEDROOM · PARKING · POOJA</text>
+<rect x="3" y="16" width="37.5" height="37" fill="#fffdf8" stroke="#87919a" stroke-width="0.1"/>
+<rect x="5.5" y="18.5" width="26" height="32" fill="#f1eee6" stroke="#263e54" stroke-width="0.2"/>
+<rect x="31.5" y="33" width="8.5" height="17" fill="#f6ebdc" stroke="#c98643" stroke-width="0.13"/>
+<text class="room" x="35.75" y="40.8" text-anchor="middle">CAR PORCH</text>
+<text class="note" x="35.75" y="42.2" text-anchor="middle">9' x 17'</text>
+<text class="note" x="42" y="42" text-anchor="start">EAST ROAD</text>
+<text class="dim" x="21.75" y="54" text-anchor="middle">37.5 ft</text>
+<text class="dim" x="2" y="34.5" text-anchor="middle">37 ft</text>
+<rect x="6" y="39" width="12" height="11" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="12" y="44.3" text-anchor="middle">ELDER / GUEST BEDROOM</text>
+<text class="note" x="12" y="45.2" text-anchor="middle">12' x 11'</text>
+<rect x="6" y="34" width="6" height="5" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="9" y="36.3" text-anchor="middle">ATTACHED BATH</text>
+<text class="note" x="9" y="37.2" text-anchor="middle">6' x 5'</text>
+<rect x="6" y="29" width="6" height="5" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="9" y="31.3" text-anchor="middle">COMMON BATH</text>
+<text class="note" x="9" y="32.2" text-anchor="middle">6' x 5'</text>
+<rect x="6" y="19" width="9" height="10" fill="#eee8df" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="10.5" y="23.8" text-anchor="middle">STAIR</text>
+<text class="note" x="10.5" y="24.7" text-anchor="middle">West / NW</text>
+<rect x="16" y="42" width="5" height="8" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="18.5" y="45.8" text-anchor="middle">UTILITY</text>
+<text class="note" x="18.5" y="46.7" text-anchor="middle">5' x 8'</text>
+<rect x="21" y="41" width="10" height="9" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="26" y="45.3" text-anchor="middle">KITCHEN</text>
+<text class="note" x="26" y="46.2" text-anchor="middle">SE · cook facing east</text>
+<rect x="15" y="29" width="11" height="12" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="20.5" y="34.8" text-anchor="middle">LIVING + DINING</text>
+<text class="note" x="20.5" y="35.7" text-anchor="middle">Open central space</text>
+<rect x="15" y="19" width="11" height="10" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="20.5" y="23.8" text-anchor="middle">DRAWING / FAMILY</text>
+<text class="note" x="20.5" y="24.7" text-anchor="middle">11' x 10'</text>
+<rect x="26" y="29" width="5" height="7" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="28.5" y="32.3" text-anchor="middle">ENTRY FOYER</text>
+<text class="note" x="28.5" y="33.2" text-anchor="middle">East entrance</text>
+<rect x="26" y="19" width="5" height="6" fill="#e7f2ed" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="28.5" y="21.8" text-anchor="middle">POOJA</text>
+<text class="note" x="28.5" y="22.7" text-anchor="middle">NE · 5' x 6'</text>
+<path d="M 37.2 22 L 37.2 18 M 37.2 18 l -.55 1.2 m .55 -1.2 l .55 1.2" stroke="#526170" fill="none" stroke-width=".12"/>
+<text class="dim" x="37.2" y="36.3" text-anchor="middle">N</text>
+<text class="title" x="61.75" y="8.700000000000003" text-anchor="middle">FIRST FLOOR</text>
+<text class="sub" x="61.75" y="10.200000000000003" text-anchor="middle">3 BEDROOMS · FAMILY LOUNGE · BALCONY</text>
+<rect x="45.5" y="18.5" width="26" height="32" fill="#f1eee6" stroke="#263e54" stroke-width="0.2"/>
+<rect x="46" y="37" width="12" height="13" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="52" y="43.3" text-anchor="middle">MASTER BEDROOM</text>
+<text class="note" x="52" y="44.2" text-anchor="middle">SW · 12' x 13'</text>
+<rect x="46" y="30" width="8" height="7" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="50" y="33.3" text-anchor="middle">DRESS + ENSUITE</text>
+<text class="note" x="50" y="34.2" text-anchor="middle">8' x 7'</text>
+<rect x="61" y="38" width="10" height="12" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="66" y="43.8" text-anchor="middle">BEDROOM 2</text>
+<text class="note" x="66" y="44.7" text-anchor="middle">SE · 10' x 12'</text>
+<rect x="56" y="43" width="5" height="7" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="58.5" y="46.3" text-anchor="middle">COMMON BATH</text>
+<text class="note" x="58.5" y="47.2" text-anchor="middle">5' x 7'</text>
+<rect x="54" y="30" width="12" height="11" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="60" y="35.3" text-anchor="middle">FAMILY LOUNGE</text>
+<text class="note" x="60" y="36.2" text-anchor="middle">12' x 11'</text>
+<rect x="56" y="19" width="15" height="11" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="63.5" y="24.3" text-anchor="middle">BEDROOM 3</text>
+<text class="note" x="63.5" y="25.2" text-anchor="middle">North · 15' x 11'</text>
+<rect x="46" y="19" width="9" height="10" fill="#eee8df" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="50.5" y="23.8" text-anchor="middle">STAIR</text>
+<text class="note" x="50.5" y="24.7" text-anchor="middle">Continues from ground</text>
+<rect x="71.5" y="29" width="6.5" height="7" fill="#e8f0df" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="74.75" y="32.3" text-anchor="middle">EAST BALCONY</text>
+<text class="note" x="74.75" y="33.2" text-anchor="middle">Over entrance / porch</text>
+<path d="M 77.2 22 L 77.2 18 M 77.2 18 l -.55 1.2 m .55 -1.2 l .55 1.2" stroke="#526170" fill="none" stroke-width=".12"/>
+<text class="dim" x="77.2" y="36.3" text-anchor="middle">N</text>
+<text class="title" x="101.75" y="8.700000000000003" text-anchor="middle">SECOND FLOOR</text>
+<text class="sub" x="101.75" y="10.200000000000003" text-anchor="middle">MULTIPURPOSE ROOM · OPEN TERRACE</text>
+<rect x="85.5" y="18.5" width="26" height="32" fill="#f1eee6" stroke="#263e54" stroke-width="0.2"/>
+<rect x="92" y="37" width="8" height="13" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="96" y="43.3" text-anchor="middle">MULTIPURPOSE / GYM</text>
+<text class="note" x="96" y="44.2" text-anchor="middle">8' x 13'</text>
+<rect x="86" y="31" width="7" height="6" fill="#fffdf8" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="89.5" y="33.8" text-anchor="middle">POWDER + STORE</text>
+<text class="note" x="89.5" y="34.7" text-anchor="middle">7' x 6'</text>
+<rect x="86" y="19" width="9" height="10" fill="#eee8df" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="90.5" y="23.8" text-anchor="middle">STAIR HEADROOM</text>
+<text class="note" x="90.5" y="24.7" text-anchor="middle">West / NW</text>
+<rect x="100" y="19" width="11" height="31" fill="#e8f0df" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="105.5" y="34.3" text-anchor="middle">ROOF GARDEN + PERGOLA</text>
+<text class="note" x="105.5" y="35.2" text-anchor="middle">Open terrace · east / north</text>
+<rect x="86" y="44" width="6" height="6" fill="#e8edf3" stroke="#597184" stroke-width="0.09"/>
+<text class="room" x="89" y="46.8" text-anchor="middle">O.H. TANK</text>
+<text class="note" x="89" y="47.7" text-anchor="middle">SW raised platform</text>
+<path d="M 117.2 22 L 117.2 18 M 117.2 18 l -.55 1.2 m .55 -1.2 l .55 1.2" stroke="#526170" fill="none" stroke-width=".12"/>
+<text class="dim" x="117.2" y="36.3" text-anchor="middle">N</text>
+<text x="3" y="60" style="font:.52px Arial;fill:#617080">CONCEPT PLAN · DIMENSIONS IN FEET · VERIFY LOCAL SETBACKS, STRUCTURE AND SERVICES BEFORE CONSTRUCTION</text></svg>
